@@ -7,3 +7,5 @@ As soon as the user logs in, they are prompoted to the main page where the user 
 I had made it basic and simple so users who are not technology friendly.
 
 Below is the app working at full function.
+https://user-images.githubusercontent.com/81382405/112534014-81fd1f80-8da2-11eb-9253-70f42f6f6275.mp4
+
